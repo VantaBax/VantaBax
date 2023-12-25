@@ -135,7 +135,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/main/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
+  <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
 </p>
 <p align="center">
   <a href="https://github.com/OnlyForward0613/github-readme-stats">
