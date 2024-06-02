@@ -139,15 +139,15 @@
 </p>
 <p align="center">
   <a href="https://github.com/OnlyForward0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=OnlyForward0613&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=OnlyForward0613&show_icons=true&theme=radical&card_width=350" />
   </a>
   <a href="https://github.com/OnlyForward0613/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=OnlyForward0613&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
-</p>
+<!-- </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
-</p>
+</p> -->
 <div align="left">
 
 
