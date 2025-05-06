@@ -1,9 +1,9 @@
 <h1 align="center">🖐️ Senior Software Engineer 🖐️</h1> 
 <br />
-<h1 align="center"> Archievements </h1>
-<p align="center">
+<!-- <h1 align="center"> Archievements </h1> -->
+<!-- <p align="center">
   <a href="https://github.com/ChangeYourself0613?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ChangeYourself0613&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@ChangeYourself0613's trophy stats"/></a>
-</p>
+</p> -->
 <table align="center">
 <tr>
     <td align="center" width="90">
@@ -149,11 +149,11 @@
 <!--  <p align="center">
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ChangeYourself0613/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=ChangeYourself0613&theme=radical" />
   </a>
-</p>
+</p> -->
 
 <div align="left">
 
