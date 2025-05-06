@@ -2,7 +2,7 @@
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
-  <a href="https://github.com/ChangeYourself?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ChangeYourself&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@ChangeYourself's trophy stats"/></a>
+  <a href="https://github.com/ChangeYourself0613?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ChangeYourself0613&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@ChangeYourself0613's trophy stats"/></a>
 </p>
 <table align="center">
 <tr>
@@ -135,14 +135,14 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/ChangeYourself/ChangeYourself/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
+  <img src="https://github.com/ChangeYourself0613/ChangeYourself0613/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
 </p>
 <p align="center">
-  <a href="https://github.com/ChangeYourself/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=ChangeYourself&show_icons=true&theme=radical&card_width=350" />
+  <a href="https://github.com/ChangeYourself0613/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=ChangeYourself0613&show_icons=true&theme=radical&card_width=350" />
   </a>
-  <a href="https://github.com/ChangeYourself/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=ChangeYourself&layout=compact&langs_count=8&card_width=350&theme=radical" />
+  <a href="https://github.com/ChangeYourself0613/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=ChangeYourself0613&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
   
 </p>
@@ -150,8 +150,8 @@
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
 </p> -->
 <p align="center">
-  <a href="https://github.com/ChangeYourself/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=ChangeYourself&theme=radical" />
+  <a href="https://github.com/ChangeYourself0613/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=ChangeYourself0613&theme=radical" />
   </a>
 </p>
 
