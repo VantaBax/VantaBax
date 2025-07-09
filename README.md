@@ -57,8 +57,8 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react-native" width="45" height="45" alt="Vue" />
-      <br>Vue
+      <img src="https://skillicons.dev/icons?i=reactnative" width="45" height="45" alt="Vue" />
+      <br>React Native
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
