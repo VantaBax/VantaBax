@@ -133,15 +133,10 @@
   </tr>
 </table>
 <br/>
-<p align="center">
-  <a href="https://github.com/ChangeYourself0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=ChangeYourself0613&show_icons=true&theme=radical&card_width=350" />
-  </a>
-  <a href="https://github.com/ChangeYourself0613/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=ChangeYourself0613&layout=compact&langs_count=8&card_width=350&theme=radical" />
-  </a>
-  
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=florashore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=florashore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <!--  <p align="center">
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
 </p> -->
