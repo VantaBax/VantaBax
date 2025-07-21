@@ -1,4 +1,4 @@
-<h1 align="center">🖐️ Senior Fullstack & Blockchain Developer 🖐️</h1> 
+<h1 align="center">🖐️ Fullstack & Blockchain Engineer 🖐️</h1> 
 <br />
 <!-- <h1 align="center"> Archievements </h1> -->
 <!-- <p align="center">
