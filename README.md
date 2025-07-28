@@ -4,6 +4,14 @@
 <!-- <p align="center">
   <a href="https://github.com/ChangeYourself0613?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ChangeYourself0613&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@ChangeYourself0613's trophy stats"/></a>
 </p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=florashore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=florashore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 <table align="center">
 <tr>
     <td align="center" width="90">
@@ -135,10 +143,7 @@
 <br/>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xora11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xora11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 <!--  <p align="center">
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
 </p> -->
